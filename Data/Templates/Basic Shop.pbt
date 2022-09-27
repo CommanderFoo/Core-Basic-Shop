@@ -50,7 +50,7 @@ Assets {
             Float: 30
           }
           Overrides {
-            Name: "cs:Spacing_Y"
+            Name: "cs:SpacingY"
             Float: 80
           }
           Overrides {
@@ -70,7 +70,7 @@ Assets {
             String: "The spacing between items in the shop on the X axis."
           }
           Overrides {
-            Name: "cs:Spacing_Y:tooltip"
+            Name: "cs:SpacingY:tooltip"
             String: "The spacing between the items in the shop on the Y axis."
           }
           Overrides {
