@@ -5,7 +5,7 @@ local SHOP_ITEM = ROOT:GetCustomProperty("ShopItem")
 local SHOP_ITEMS = require(ROOT:GetCustomProperty("ShopItems"))
 local RESOURCE_KEY = ROOT:GetCustomProperty("ResourceKey")
 local SPACING_X = ROOT:GetCustomProperty("SpacingX")
-local SPACING_Y = ROOT:GetCustomProperty("Spacing_Y")
+local SPACING_Y = ROOT:GetCustomProperty("SpacingY")
 
 local offset_x = -175
 local offset_y = 50
